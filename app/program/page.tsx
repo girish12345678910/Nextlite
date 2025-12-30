@@ -57,7 +57,8 @@ export default function ProgramPage() {
                 Apply Now
               </Button>
               <a
-  href="Training+Internship Syllabus.pdf"
+  href="/Training+Internship%20Syllabus.pdf"
+
   download
   className="inline-flex items-center justify-center font-semibold rounded-xl transition-all focus:outline-none focus:ring-2 focus:ring-offset-2 px-8 py-4 text-lg border-2 border-[#FF5A3C] text-[#FF5A3C] hover:bg-[#FFF1ED] focus:ring-[#FF5A3C] gap-2"
 >
