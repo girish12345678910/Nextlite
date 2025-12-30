@@ -41,7 +41,7 @@ export default function ContactPage() {
                         href="mailto:hello@nextlite.agency"
                         className="text-neutral-600 hover:text-[#FF5A3C] transition-colors"
                       >
-                        hello@nextlite.agency
+                        nextlite555@gmail.com
                       </a>
                     </div>
                   </div>
@@ -55,7 +55,7 @@ export default function ContactPage() {
                         rel="noopener noreferrer"
                         className="text-neutral-600 hover:text-[#FF5A3C] transition-colors"
                       >
-                        +91 98765 43210
+                        +91 8767316983
                       </a>
                     </div>
                   </div>

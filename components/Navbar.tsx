@@ -28,6 +28,12 @@ export default function Navbar() {
             >
               Services
             </Link>
+            <Link
+              href="/program"
+              className="text-neutral-700 hover:text-[#FF5A3C] transition-colors font-medium"
+            >
+              Program
+            </Link>
             <Button href="/contact" size="sm">
               Contact
             </Button>
@@ -53,6 +59,13 @@ export default function Navbar() {
                 onClick={() => setIsOpen(false)}
               >
                 Services
+              </Link>
+              <Link
+                href="/program"
+                className="text-neutral-700 hover:text-[#FF5A3C] transition-colors font-medium"
+                onClick={() => setIsOpen(false)}
+              >
+                Program
               </Link>
               <Button href="/contact" size="sm" onClick={() => setIsOpen(false)}>
                 Contact
