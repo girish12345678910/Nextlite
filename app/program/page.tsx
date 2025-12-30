@@ -56,10 +56,15 @@ export default function ProgramPage() {
                 <CheckCircle className="w-5 h-5" />
                 Apply Now
               </Button>
-              <Button href="/Training+Internship Syllabus.pdf" variant="outline" size="lg" className="gap-2" download>
-                <Download className="w-5 h-5" />
-                Download Syllabus
-              </Button>
+              <a
+  href="Training+Internship Syllabus.pdf"
+  download
+  className="inline-flex items-center justify-center font-semibold rounded-xl transition-all focus:outline-none focus:ring-2 focus:ring-offset-2 px-8 py-4 text-lg border-2 border-[#FF5A3C] text-[#FF5A3C] hover:bg-[#FFF1ED] focus:ring-[#FF5A3C] gap-2"
+>
+  <Download className="w-5 h-5" />
+  Download Syllabus
+</a>
+
             </div>
           </div>
         </Container>
