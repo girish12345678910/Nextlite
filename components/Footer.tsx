@@ -59,7 +59,7 @@ export default function Footer() {
                   href="mailto:hello@nextlite.agency"
                   className="hover:text-[#FF5A3C] transition-colors"
                 >
-                  hello@nextlite.agency
+                  nextlite555@gmail.com
                 </a>
               </li>
               <li>
@@ -69,7 +69,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-[#FF5A3C] transition-colors"
                 >
-                  +91 98765 43210
+                  +91 8767316983
                 </a>
               </li>
             </ul>
